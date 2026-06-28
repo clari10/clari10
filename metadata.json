@@ -1,0 +1,6 @@
+{
+  "name": "Shopify & GitHub Website Builder",
+  "description": "쇼피파이 Storefront API와 깃허브 배포 워크플로우를 활용하여 헤드리스 쇼핑몰을 함께 설계하고, AI 조력자의 코칭과 코드 생성을 지원받는 양방향 공동 개발 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
